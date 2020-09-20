@@ -13,3 +13,7 @@ This was an introduction to regression, discussing various types regression tech
 ## Stage C:
 
 This was an introduction to classification, discussing logistic regression, tree based methods, SVM, ensemble methods, etc
+
+## Stage D:
+
+This was an intorduction to neural networks, we were givem the popular amazon rain forest dataset(Planet: Understanding the Amazon from Space) to work.
